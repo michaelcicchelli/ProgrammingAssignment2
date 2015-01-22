@@ -1,4 +1,4 @@
-## The makeCacheMatrix calculates the inverse of x, a vector input.
+## The makeCacheMatrix function calculates the inverse of x, a vector input.
 ## The cacheSolve matrix returns this cached value if the input is
 ## the same as what was given to the makeCacheMatrix function. Note:
 ## the makeCacheMatrix function is best used if its output is assigned
